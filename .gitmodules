@@ -7,3 +7,8 @@
 	path = OCA/knowledge
 	url = git@github.com:OCA/knowledge.git
 	branch = 15.0
+
+[submodule "OCA/rma"]
+	path = OCA/rma
+	url = git@github.com:OCA/rma.git
+	branch = 15.0
